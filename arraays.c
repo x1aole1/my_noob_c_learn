@@ -14,7 +14,7 @@ int main ()
     for ( j = 0; j < 10; j++ )
     {
     
-        printf("Elementn[%d] is %d", j, n[j]);
+        printf("Elementn[%d] is %d\n", j, n[j]);
     }
     return 0;
 }
